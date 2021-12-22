@@ -10,9 +10,9 @@
 
 > Jiang Yanting, Hu Renfen. Representation Learning and Multi-label Classifcation of Books Based on BERT[J], New Century Library, 2020(9), 38-44.
 
-> [1]蒋彦廷,胡韧奋.自然语言处理在其他学科领域的影响考察——基于CNKI的中文文献挖掘[J/OL].情报杂志:1-8[2021-10-15].http://kns.cnki.net/kcms/detail/61.1167.g3.20210929.1410.020.html.
+> [1]蒋彦廷,胡韧奋.自然语言处理在其他学科领域的影响考察——基于CNKI的中文文献挖掘[J].情报杂志,2021,40(12):169-176.
 
-> Jiang Yanting, Hu Renfen. Influence of NLP on other fields based on data mining of CNKI Chinese papers[J]. Journal of Intelligence, 2021(12).
+> Jiang Yanting, Hu Renfen. Influence of NLP on other fields based on data mining of CNKI Chinese papers[J]. Journal of Intelligence, 2021,40(12):169-176.
 
 
 
