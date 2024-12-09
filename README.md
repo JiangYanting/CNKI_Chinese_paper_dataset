@@ -3,18 +3,6 @@
 
 ![中国知网论文数据集](https://github.com/JiangYanting/CNKI_Chinese_paper_dataset/blob/main/%E8%AE%BA%E6%96%87%E6%95%B0%E6%8D%AE%E9%9B%8601.png)
 
-若在科研论文、项目工程中使用了该数据集，欢迎引用：
-
-
-> 蒋彦廷，胡韧奋. 基于BERT模型的图书表示学习与多标签分类研究[J]. 新世纪图书馆（图书馆学情报学CSSCI核心刊物），2020年第9期，第38-44页.
-
-> Jiang Yanting, Hu Renfen. Representation Learning and Multi-label Classifcation of Books Based on BERT[J], New Century Library, 2020(9), 38-44.
-
-> [1]蒋彦廷,胡韧奋.自然语言处理在其他学科领域的影响考察——基于CNKI的中文文献挖掘[J].情报杂志,2021,40(12):169-176.
-
-> Jiang Yanting, Hu Renfen. Influence of NLP on other fields based on data mining of CNKI Chinese papers[J]. Journal of Intelligence, 2021,40(12):169-176.
-
-
 
 ## 一个广泛搜集爬取的中文图书分类数据集
 
